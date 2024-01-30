@@ -1,0 +1,10 @@
+In diesem Repository präsentiere ich ein aktuelles Oberstufenprojekt, bei dem wir uns mit der Entwicklung eines RFID-Chip-basierten Systems beschäftigt haben. 
+Unsere zentrale Aufgabe bestand darin, ein System zu entwerfen, das einen RFID-Chip liest, die Informationen an einen MQTT Broker sendet und schließlich an einen Client weiterleitet. 
+Dies ermöglichte eine effiziente Überprüfung der Datenbank.
+
+Projekt: RFID-basiertes Überprüfungssystem
+Projektzeitraum: 3 - 4 Tage
+Materialien:
+- RFID-Chipkarte
+- ESP8266
+- RFID-Auslesegerät
