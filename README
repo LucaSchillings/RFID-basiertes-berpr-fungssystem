@@ -2,7 +2,7 @@ In diesem Repository präsentiere ich ein aktuelles Oberstufenprojekt, bei dem w
 Unsere zentrale Aufgabe bestand darin, ein System zu entwerfen, das einen RFID-Chip liest, die Informationen an einen MQTT Broker sendet und schließlich an einen Client weiterleitet. 
 Dies ermöglichte eine effiziente Überprüfung der Datenbank.
 
-Für den code für den Clienten müssen Sie auf: 
+Für den code für den Clienten müssen Sie auf: HiveMC MQTT Client > HiveMC MQTT Client > Program.cs
 
 Projekt: RFID-basiertes Überprüfungssystem
 Projektzeitraum: 3 - 4 Tage
